@@ -1,0 +1,32 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.sln.ide
+*.userprefs
+*.vs/
+.vscode/
+
+# Angular
+node_modules/
+dist/
+coverage/
+*.log
+
+# Archivos temporales
+*.tmp
+*.bak
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de entornos
+.env
+*.env
+
+# Ignorar archivos de IDEs
+.idea/
+*.sublime-workspace
+*.sublime-project
