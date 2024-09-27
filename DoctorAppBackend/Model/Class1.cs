@@ -2,6 +2,6 @@
 {
     public class Class1
     {
-        public int UserId { get; set; }
+        public int Edad { get; set; }
     }
 }
